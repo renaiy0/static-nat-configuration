@@ -76,7 +76,7 @@ This project demonstrates a **basic NAT setup** where:
 | File | Preview | Description |
 |------|:-------:|-------------|
 | `cisco.pkt` | 📦 | Main Cisco Packet Tracer topology file |
-| `staticconfig.png` | <img src="staticconfig.png" width="100"/> | Static IP configuration on router |
+| `staticonfig.png` | <img src="staticonfig.png" width="100"/> | Static IP configuration on router |
 | `PROOFthatPC1and2cantpingingprivateIP.png` | <img src="PROOFthatPC1and2cantpingingprivateIP.png" width="100"/> | Proof that NAT is working - PC1 and PC2 cannot ping private IPs but can reach public IP |
 | `progress1.png` | <img src="progress1.png" width="100"/> | CLI configuration progress screenshot |
 
